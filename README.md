@@ -5,3 +5,6 @@ In this course I work with IBM Quantum Experience to run the jupyter notebooks o
 Since the imported Qiskit libraries are very heavy a normal jupyter notebook exceeds 25 MB which is why I upload them compressed.
 
 I recommend to get registered at IBM Quantum Experience and use their Quantum Lab. It's quite intuitive and all necessary packages are already important whenever you open a new Python3 file.
+
+// TO DO: check Papermill for workflow automation with jupyter notebooks
+Add Lab_Week6 and Lab_Week7 to repo
